@@ -1,6 +1,8 @@
 # Novel_Hotkey
 - Hotkey for novel or word editing
 
+- Windows on top most
+
 ## Review
 ![image](https://github.com/Proladon/Novel_Hotkey/blob/master/Review/Review.png)
 
