@@ -13,7 +13,7 @@ Download the exe file from [here](https://github.com/Proladon/Novel_Hotkey/raw/m
 
 ### How to use:
 
->> Using CTRL + Number <<
+\>\> Using CTRL + Number <<
 
 Press <kbd>F3</kbd> to read how to use
 
@@ -21,7 +21,7 @@ Press <kbd>F1</kbd> or <kbd>F2</kbd> to change number mode
 
 
 
->> 使用 CTRL + 數字 <<
+\>\> 使用 CTRL + 數字 <<
 
 按下 <kbd>F3</kbd> 讀取使用說明
 
